@@ -1,6 +1,6 @@
 ---
 title: 'hw01j: セットアップ'
-author: '氏名^[所属]'
+author: '佐藤健治^[神戸大学 mail@kenjisato.jp]'
 date: '`r format(Sys.time(), "%Y/%m/%d")`'
 output:
   bookdown::pdf_document2:
