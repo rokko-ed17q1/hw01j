@@ -63,6 +63,7 @@ GitHub アカウントを持っていない場合は作ってください。
 - LaTeX ([texlive for Windows/Linux](https://www.tug.org/texlive/), 
   [MacTeX for macOS](https://tug.org/mactex/))
 - [GitHub Desktop](https://desktop.github.com/)
+- [Git for Windows](https://git-for-windows.github.io/) for Windows
 
 インストールが完了したら次のステップに進んでください。
 
